@@ -1,2 +1,2 @@
-# DS
-Learning and applying
+# Data Science Project Area
+Learning and applying it to commercial endeavors
