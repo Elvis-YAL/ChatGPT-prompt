@@ -1,5 +1,5 @@
 # In this project
-There's 152 data.
+There's 152 data from ChatGPT prompt.
 
 For text analysis, we have multiple methods to choose from. Below are some analysis methods in my notebook:
 
